@@ -1,0 +1,2 @@
+# Developing-a-physician-performance-model-in-critical-care-Assessing-quality-and-value
+Situation of the patients in the ICU is so critical in the hospitals. Therefore performance health care practitioners is so important for saving life. In this study ,I provide descriptive statistics for physicians with traditional evaluations 360 model and with new models for SOFA and APACHE-II scores that provide a better tools for examine performance.
